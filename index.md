@@ -16,3 +16,5 @@ I am a computer science major at CSUF and I plan on graduating in fall of 2028.
 * Lab 9, part 2
 
     This was a lab that ended up being a little troubling for me but at the same time, it was pretty fun. Making the code for a game to guess a secret number would be very satisfying and fun to look at after the program was completed. This lab involved ifstream and input files which I hadn’t worked on before so that is something that I learned a lot about during this part of lab 9 with both my partner and the instructor for class. 
+
+    I have had a great time in this class. 
